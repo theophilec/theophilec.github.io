@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student @ Inria Paris. Machine Learning Engineer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>theophiledotcantelobreatinriadotfr</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
