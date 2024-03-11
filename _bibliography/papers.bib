@@ -1,85 +1,57 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{cantelobre2024psdfilter,
+  title={Closed-form Filtering for Non-linear Systems},
+  author={Théophile Cantelobre and Carlo Ciliberto and Benjamin Guedj and Alessandro Rudi},
+  year={2024},
+  journal ={arXiv 2402.09796},
+  volume={stat.ML},
+  pdf = {https://arxiv.org/pdf/2402.09796.pdf},
+  html = {https://arxiv.org/abs/2402.09796},
+  key = {value},
+  selected ={true},
+  abstract={Sequential Bayesian Filtering aims to estimate the current state distribution of a Hidden Markov Model, given the past observations. The problem is well-known to be intractable for most application domains, except in notable cases such as the tabular setting or for linear dynamical systems with gaussian noise. In this work, we propose a new class of filters based on Gaussian PSD Models, which offer several advantages in terms of density approximation and computational efficiency. We show that filtering can be efficiently performed in closed form when transitions and observations are Gaussian PSD Models. When the transition and observations are approximated by Gaussian PSD Models, we show that our proposed estimator enjoys strong theoretical guarantees, with estimation error that depends on the quality of the approximation and is adaptive to the regularity of the transition probabilities.  In particular, we identify regimes in which our proposed filter attains a TV $\epsilon$-error with memory and computational complexity of $O(\epsilon^{-1})$ and $O(\epsilon^{-3/2})$ respectively, including the offline learning step, in contrast to the $O(\epsilon^{-2})$ complexity of sampling methods such as particle filtering.}
+}
+@InProceedings{pmlr-v162-cantelobre22a,
+  title = 	 {Measuring dissimilarity with diffeomorphism invariance},
+  author =       {Cantelobre, Th{\'e}ophile and Ciliberto, Carlo and Guedj, Benjamin and Rudi, Alessandro},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {2572--2596},
+  year = 	 {2022},
+    selected ={true},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/cantelobre22a/cantelobre22a.pdf},
+  html = 	 {https://proceedings.mlr.press/v162/cantelobre22a.html},
+  code = {https://github.com/theophilec/diffy},
+  abstract = 	 {Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data’s internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a
+                Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nystr{ö}m sampling. Empirical experiments support the merits of DID.},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@article{cantelobre2020pacbayesian,
+      title={A PAC-Bayesian Perspective on Structured Prediction with Implicit Loss Embeddings},
+      author={Théophile Cantelobre and Benjamin Guedj and María Pérez-Ortiz and John Shawe-Taylor},
+      year={2020},
+      journal={arXiv 2012.03780,},
+      volume={cs.LG},
+      selected={true},
+      pdf={https://arxiv.org/pdf/2012.03780.pdf},
+      abstract={Many practical machine learning tasks can be framed as Structured prediction problems, where several output variables are predicted and considered interdependent. Recent theoretical advances in structured prediction have focused on obtaining fast rates convergence guarantees, especially in the Implicit Loss Embedding (ILE) framework. PAC-Bayes has gained interest recently for its capacity of producing tight risk bounds for predictor distributions. This work proposes a novel PAC-Bayes perspective on the ILE Structured prediction framework. We present two generalization bounds, on the risk and excess risk, which yield insights into the behavior of ILE predictors. Two learning algorithms are derived from these bounds. The algorithms are implemented and their behavior analyzed, with source code available at <a href="https://github.com/theophilec/PAC-Bayes-ILE-Structured-Prediction">this link</a>.}}
+
+@INPROCEEDINGS{cantelobre2020iros,
+	author={Cantelobre, Théophile and Chahbazian, Clément and Croux, Arnaud and Bonnabel, Silvère},
+	booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	title={A real-time unscented Kalman filter on manifolds for challenging AUV navigation},
+	year={2020},
+	doi={10.1109/IROS45743.2020.9341216},
+    	abstract={We consider the problem of localization and navigation of Autonomous Underwater Vehicles (AUV) in the context of high performance subsea asset inspection missions in deep water. We propose a solution based on the recently introduced Unscented Kalman Filter on Manifolds (UKF-M) for onboard navigation to estimate the robot's location, attitude and velocity, using a precise round and rotating Earth navigation model. Our algorithm has the merit of seamlessly handling nonlinearity of attitude, and is far simpler to implement than the extended Kalman filter (EKF), which is widely used in the navigation industry. The unscented transform notably spares the user the computation of Jacobians and lends itself well to fast prototyping in the context of multi-sensor data fusion. Besides, we provide the community with feedback about implementation, and execution time is shown to be compatible with real-time. Realistic extensive Monte-Carlo simulations prove uncertainty is estimated with accuracy by the filter, and illustrate its convergence ability. Real experiments in the context of a 900m deep dive near Marseille (France) illustrate the relevance of the method.},
+    selected={true},
+    pdf={https://hal-mines-paristech.archives-ouvertes.fr/hal-02915271/document},
+    url={https://ieeexplore.ieee.org/document/9341216}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
-}
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
