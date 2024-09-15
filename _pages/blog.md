@@ -99,7 +99,7 @@ nav: true
     {% endif %}
 
     {% for post in postlist %}
-Blablabla
+
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
@@ -109,7 +109,7 @@ Blablabla
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
-    <li>
+    <li>Blablabla
 
 {% if post.thumbnail %}
 
