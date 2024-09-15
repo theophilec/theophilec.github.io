@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poiscaille
-date: 2024-09-15 20:45:00
+date: 2024-09-12 20:45:00
 description: Poiscaille's financial difficulties (French).
 categories: links
 tags: formatting
@@ -11,7 +11,7 @@ Le 11 septembre dernier, j'ai reçu un mail de [Poiscaille](https://www.poiscail
 
 Poiscaille livre du poisson frais, pêché artisanelement en France dans les 72h avant la livraison, sur le mode de l'abonnement (mais également de la commande ponctuelle). La veille de sa livraison, le client choisit le contenu de son panier parmi une offre assez large de ce qui a été effectivement acheté à des pêcheurs. Si Poiscaille se compare au fonctionnement d'une Amap, l'abonnement est sans engagement.
 
-Les difficultés de Poiscaille ne sont pas si suprenants. Le site avait déjà ajouté un système de bonus-malus sur le choix du produit : les produits "nobles" (et certainement les plus onéreux) comme le bar entier sont grévés d'un surcoût qui peut être significatif ; les produits "ordinaires" voire impopulaires comme le maquereau sont plus économiques avec un montant plus faible. Une manière de proposer les produits recherchés par une clientèle séduite par son modèle mais n'étant pas intéressée par des produits moins attractifs comme le silure (même si cette démographie est explicitement éloignée dans leurs [FAQ](https://poiscaille.zendesk.com/hc/fr/articles/6890542049053-Je-souhaite-acheter-uniquement-du-bar-des-daurades-royales-et-du-homard-pourquoi-je-ne-suis-pas-au-bon-endroit)).
+Les difficultés de Poiscaille ne sont pas si suprenantes. Le site avait déjà ajouté un système de bonus-malus sur le choix du produit : les produits "nobles" (et certainement les plus onéreux) comme le bar entier sont grévés d'un surcoût qui peut être significatif ; les produits "ordinaires" voire impopulaires comme le maquereau sont plus économiques avec un montant plus faible. Une manière de proposer les produits recherchés par une clientèle séduite par son modèle mais n'étant pas intéressée par des produits moins attractifs comme le silure (même si cette démographie est explicitement éloignée dans leurs [FAQ](https://poiscaille.zendesk.com/hc/fr/articles/6890542049053-Je-souhaite-acheter-uniquement-du-bar-des-daurades-royales-et-du-homard-pourquoi-je-ne-suis-pas-au-bon-endroit)).
 
 Dans son mail, Poiscaille expose deux leviers pour l'aider : augmenter la fréquence de son abonnement (augmenter le panier moyen) et parraîner des proches (augmenter le nombre de clients). Poiscaille ne cherche pas à faire du crowdfunding, contrairement à ce que Kelbongoo souhaitait faire avant de se faire racheter.
 
