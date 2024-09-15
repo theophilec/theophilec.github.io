@@ -1,7 +1,9 @@
 ---
-title: Poiscaille en difficulté financière
-description: Poiscaille a annoncé des difficultés financières à court-terme.
-category: personal
+layout: post
+title: Poiscaille
+date: 2024-09-15 20:45:00
+description: Poiscaille's financial difficulties (French).this is what included images could look like
+categories: personal
 ---
 
 Le 11 septembre dernier, j'ai reçu un mail de [Poiscaille](https://www.poiscaille.fr) annonçant les difficultés financières de Poiscaille, service que j'utilise depuis un peu plus d'un an (première commande le 29 août 2023).
