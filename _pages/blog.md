@@ -6,7 +6,6 @@ nav: true
 ---
 
 <div class="post">
-Totot
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
@@ -93,7 +92,7 @@ Totot
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = site.posts %}
+      {% assign postlist = paginator.posts %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
@@ -109,7 +108,7 @@ Totot
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
-    <li>Blablabla
+    <li>
 
 {% if post.thumbnail %}
 
