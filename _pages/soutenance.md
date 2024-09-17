@@ -38,7 +38,7 @@ J'ai l'immense plaisir d'avoir un jury composé de :
 - Zoltán Szabó, London School of Economics (Examinateur)
 - Gersende Fort, Université de Toulouse (Examinateur)
 - Olivier Cappé, École Normal Supérieure (Examinateur)
-- Benjamin Guedj, Inria \& University College London (Directeur de thèse)
+- Benjamin Guedj, Inria & University College London (Directeur de thèse)
 - Alessandro Rudi, Inria (Co-encadrant)
 - Carlo Ciliberto, University College London (Co-encadrant)
 
