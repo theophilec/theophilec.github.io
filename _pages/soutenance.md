@@ -36,7 +36,7 @@ J'ai l'immense plaisir d'avoir un jury composé de :
 - Eric Moulines, École Polytechnique (Rapporteur)
 - Lorenzo Rosasco, Università degli Studi di Genova (Examinateur)
 - Zoltán Szabó, London School of Economics (Examinateur)
-- Gersende Fort, Université de Toulouse (Examinateur)
+- Gersende Fort, Université de Toulouse (Examinatrice)
 - Olivier Cappé, École Normal Supérieure (Examinateur)
 - Benjamin Guedj, Inria & University College London (Directeur de thèse)
 - Alessandro Rudi, Inria (Co-encadrant)
