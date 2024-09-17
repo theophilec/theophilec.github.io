@@ -8,7 +8,7 @@ categories: personal
 
 Le 11 septembre dernier, j'ai reçu un mail de [Poiscaille](https://www.poiscaille.fr) annonçant les difficultés financières de Poiscaille, service que j'utilise depuis un peu plus d'un an (première commande le 29 août 2023).
 
-Poiscaille livre du poisson frais, pêché artisanelement en France dans les 72h avant la livraison, sur le mode de l'abonnement (mais également de la commande ponctuelle). La veille de sa livraison, le client choisit le contenu de son panier parmi une offre assez large de ce qui a été effectivement acheté à des pêcheurs. Si Poiscaille se compare au fonctionnement d'une Amap, l'abonnement est sans engagement.
+Poiscaille livre du poisson frais, pêché artisanalement en France dans les 72h avant la livraison, sur le mode de l'abonnement (mais également de la commande ponctuelle). La veille de sa livraison, le client choisit le contenu de son panier parmi une offre assez large de ce qui a été effectivement acheté à des pêcheurs. Si Poiscaille se compare au fonctionnement d'une Amap, l'abonnement est sans engagement.
 
 Les difficultés de Poiscaille ne sont pas si suprenantes. Le site avait déjà ajouté un système de bonus-malus sur le choix du produit : les produits "nobles" (et certainement les plus onéreux) comme le bar entier sont grévés d'un surcoût qui peut être significatif ; les produits "ordinaires" voire impopulaires comme le maquereau sont plus économiques avec un montant plus faible. Une manière de proposer les produits recherchés par une clientèle séduite par son modèle mais n'étant pas intéressée par des produits moins attractifs comme le silure (même si cette démographie est explicitement éloignée dans leurs [FAQ](https://poiscaille.zendesk.com/hc/fr/articles/6890542049053-Je-souhaite-acheter-uniquement-du-bar-des-daurades-royales-et-du-homard-pourquoi-je-ne-suis-pas-au-bon-endroit)).
 
@@ -22,9 +22,9 @@ Nous sommes abonnés depuis août 2023, et avons découvert grâce aux parents d
 
 Utiliser Poiscaille était une manière de garantir des poissons et crustacés correspondant à nos attentes et nous obliger à en consommer. C'est toujours le cas aujourd'hui, et nous avons rarement été déçus.
 
-Côté rapport qualité-prix, nous dépensons 50 euros par mois chez Poiscaille. D'une part, cela reste une petite partie de notre budget alimentaire mensuel. D'autre part, le coût d'un bien n'existe pas et regardons les alternatives. En cherchant quelques minutes, on voit qu'une [daurade royale sauvage française et _a priori_ artisanale](https://www.ventetmaree.fr/DAURADE-ROYALE-DE-LIGNE-p290796205) est vendue à 50 euros pièce et le maquereau vidé à [20 euros le kilo](https://www.ventetmaree.fr/MAQUEREAU-p296612862). On n'est pas loin -- voire au-dessus -- des prix Poiscaille, sans compter la practicité pour nous et la capacité de Poiscaille de garantir des revenus à ses pêcheurs partenaires grâce aux abonnements.
+Côté rapport qualité-prix, nous dépensons 50 euros par mois chez Poiscaille. D'une part, cela reste une petite partie de notre budget alimentaire mensuel. D'autre part, [__le coût d'un bien n'existe pas__](http://riveline.net/poly/), regardons les alternatives qui s'offrent à nous. Que proposent les poissonneries ? En cherchant quelques minutes, on voit qu'une [daurade royale sauvage française et _a priori_ artisanale](https://www.ventetmaree.fr/DAURADE-ROYALE-DE-LIGNE-p290796205) est vendue à 50 euros pièce et le maquereau vidé à [20 euros le kilo](https://www.ventetmaree.fr/MAQUEREAU-p296612862). On n'est pas loin -- voire au-dessus -- des prix Poiscaille. C'est sans compter la practicité, les garanties de qualité de Poiscaille et les garanties de revenus pour les pêcheurs.
 
-Poiscaille propose en ce moment une promotion et une offre de parainnage. Je recommande pleinement, allez-y (et refusez la prime de parainnage) !
+Poiscaille propose en ce moment une promotion et une offre de parainnage. Je recommande pleinement, allez-y !
 
 ## Chiffres clés (et des ratios un peu arbitraires pour réfléchir à voix haute)
 
