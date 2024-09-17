@@ -2,6 +2,7 @@
 layout: page
 title: soutenance
 permalink: /soutenance/
+nav: true
 ---
 
 # Informations principales
