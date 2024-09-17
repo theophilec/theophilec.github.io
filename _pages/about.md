@@ -23,4 +23,4 @@ My work leverages approximate kernel methods to develop and study maching learni
 
 This site is still (a bit) under construction.
 
-**Open to work**: I am looking for a permanent position as a Machine Learning Scientist or Engineer in or around Paris from Septembre 2024. Get in touch !
+**Open to work**: I am actively looking for a Machine Learning Engineer or Software Engineering position in or around Paris. I will be available in October 2024, and am particularly interested in joining a highly-technical team building a powerful product or service. I am open to branching out from ML to signal processing, optimization... get in touch!
