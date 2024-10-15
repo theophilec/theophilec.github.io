@@ -10,7 +10,8 @@ nav: true
 - 📆 Date : 16 octobre 2024
 - 🕐 Horaire : 14 heures (soutenance), 17 heures (pot), 20h (La Felicita)
 - 📍 Lieu : Inria Paris (47 rue Barrault, 75013 Paris) (ou par visioconférence)
-- 👉 Inscription (obligatoire) : [click here](https://docs.google.com/presentation/d/1iLGnYrVi_QfM9pvtkGa4WbgffMhWrzZGNJIcE2FFH34/edit?usp=sharing)
+- 👉 Inscriptions (obligatoire pour être sur la liste / recevoir le lien): [cliquer ici](https://forms.gle/gCaipkiMBDbxr3aK8)
+- 👨‍🏫 Slides: [click here](https://docs.google.com/presentation/d/1iLGnYrVi_QfM9pvtkGa4WbgffMhWrzZGNJIcE2FFH34/edit?usp=sharing)
 - 🎥 Lien visio : [click here](https://inria.webex.com/inria/j.php?MTID=mdccf9b6de4db590cda1ac9e97b89145b) (password: Fz@X6@u59@mt@rp, without the @ symbols) Please beware of your mic!
 
 # Ça parle de quoi ?
