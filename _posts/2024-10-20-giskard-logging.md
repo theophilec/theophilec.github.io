@@ -15,7 +15,7 @@ By monitoring DOM updates, the extension captures the attempted prompt and respo
 
 History can be viewed though a popup with a challenge selector. All stored data can be exported to JSON so it can be analysed or kept.
 
-![Demo image](assets/img/giskard-demo.png)
+![Demo image](/assets/img/giskard-demo.png)
 
 
 ## Coding: MDN + Anthropic's Claude Sonnet
