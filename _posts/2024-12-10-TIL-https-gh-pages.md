@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIL: configuring HTTPS for Github Pages and OVH
+title: "TIL - configuring HTTPS for Github Pages and OVH"
 date: 2024-12-10
 description: For future reference...
 categories: TIL, web
