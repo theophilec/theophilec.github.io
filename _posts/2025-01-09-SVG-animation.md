@@ -18,15 +18,15 @@ Animate this SVG to make the text appear below. Make it very corporate and profe
 
 and the initial logo :
 
-![Animated Mines Paris Alumni logo](assets/img/20250109-initial-logo.svg)
+![Animated Mines Paris Alumni logo](/assets/img/20250109-initial-logo.svg)
 
 Here are the results (the second one was asked to be more "exciting"):
-![Animated Mines Paris Alumni logo](assets/img/20250109-animated-logo.svg)
-![Animated Mines Paris Alumni logo](assets/img/20250109-animated-logo-1.svg)
+![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo.svg)
+![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo-1.svg)
 
 Then, making it have flashing colours, it loses some text it cannot recover despite my coaxing
 (and the site says an output limit has been reached).
-![Animated Mines Paris Alumni logo](assets/img/20250109-animated-logo-2.svg)
-![Animated Mines Paris Alumni logo](assets/img/20250109-animated-logo-3.svg)
+![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo-2.svg)
+![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo-3.svg)
 
 In any case, super exciting and fun to play with!
