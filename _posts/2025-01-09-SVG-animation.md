@@ -21,7 +21,21 @@ and the initial logo :
 ![Animated Mines Paris Alumni logo](/assets/img/20250109-initial-logo.svg)
 
 Here are the results (the second one was asked to be more "exciting"):
-![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo.svg)
+<style>
+  .svg-container {
+    animation: reset-animation 3.8s infinite; /* 3.8s matches the total animation time */
+  }
+
+  @keyframes reset-animation {
+    0%, 99.999% { opacity: 1; }
+    100% { opacity: 0.999; } /* Tiny opacity change triggers reset */
+  }
+</style>
+
+<div class="svg-container">
+    ![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo.svg)
+</div>
+
 ![Animated Mines Paris Alumni logo](/assets/img/20250109-animated-logo-1.svg)
 
 Then, making it have flashing colours, it loses some text it cannot recover despite my coaxing
