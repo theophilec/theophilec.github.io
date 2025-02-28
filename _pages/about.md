@@ -7,7 +7,7 @@ subtitle: Machine Learning Engineer and PhD.
 profile:
   align: right
   image: small.jpg
-  image_circular: false# crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 news: true # includes a list of news items
