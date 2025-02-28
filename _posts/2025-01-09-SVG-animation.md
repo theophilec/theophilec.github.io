@@ -3,7 +3,7 @@ layout: post
 title: "Animating SVGs with Claude 3.5 Sonnet"
 date: 2025-01-09
 description: Reproducing some ideas from HN.
-categories: llm, art
+categories: llm art
 ---
 
 

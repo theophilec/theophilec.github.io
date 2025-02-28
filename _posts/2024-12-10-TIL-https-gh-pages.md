@@ -3,7 +3,7 @@ layout: post
 title: "TIL - configuring HTTPS for Github Pages and OVH"
 date: 2024-12-10
 description: For future reference...
-categories: TIL, web
+categories: TIL web
 ---
 
 _This TIL is following configuring verified domains for two of my websites
