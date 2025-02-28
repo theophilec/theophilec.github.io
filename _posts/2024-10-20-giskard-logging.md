@@ -3,7 +3,7 @@ layout: post
 title: Chrome extension for logging attempts
 date: 2024-10-20
 description: Chrome extension for logging attempts in the Giskard RED Challenge.
-categories: web, llm
+categories: web llm
 ---
 I just released a [Chrome extension](https://github.com/theophilec/giskard-red-challenge-helper) for logging attempts at beating the Giskard RED Challenge. It is available on [Github](https://github.com/theophilec/giskard-red-challenge-helper) under the MIT License. It is written in Javascript with the help of Anthropic's Claude Sonnet.
 
