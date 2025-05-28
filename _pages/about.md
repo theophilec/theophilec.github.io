@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-After my engineering degree at [Mines Paris - PSL](https://minesparis.psl.eu), I defended my PhD in machine learning in 2024, supervised by Alessandro Rudi, Carlo Ciliberto and Benjamin Guedj, on the topic of structure in ML methods. You can read my thesis [here](https://theses.fr/2024UPSLE004).
+I am a Machine learning engineer, starting a new job in tech in a few weeks.
 
-**Open to work**: I am actively looking for a Machine Learning Engineer or Full Stack Data Scientist position. Some things I value: a team to learn with, an impactful product to build and deploy, and the opportunity to have an impact. I am open to branching out from ML to signal processing, optimization, systems engineering,... please get in touch!
+Before that, I studied engineering  at [Mines Paris - PSL](https://minesparis.psl.eu), machine learning at [Sorbonne Université](), and earned my PhD in machine learning from [École Normale Supérieure](https://ens.psl.eu) in the [SIERRA team](https://sierra-mlopt.github.io/) at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris), supervised by Alessandro Rudi, Carlo Ciliberto and Benjamin Guedj, on the topic of structure in ML methods. You can read my thesis [here](https://theses.fr/2024UPSLE004).
 
 Right now, I am building tools in Python and Rust, around ML and the web. Trying to blog about it. Everything is on [Github](https://github.com/theophilec) and on my [blog](/blog).
