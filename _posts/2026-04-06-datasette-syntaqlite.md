@@ -8,6 +8,8 @@ categories:
 
 `datasette-syntaqlite` is a [Datasette](https://datasette.io/) plugin that augments Datasette's query editor using [`syntaqlite`](https://github.com/LalitMaganti/syntaqlite). Currently it catches syntax errors and incorrect columns based on available tables and views.
 
+![datasette-syntaqlite]({{ "/assets/img/datasette-syntaqlite.png" | relative_url }})
+
 You can check out the code [here](https://github.com/theophilec/datasette-syntaqlite) or add it to your Datasette project using `uv add datasette-syntaqlite`.
 
 I use Datasette on a weekly basis for a lot of my side projects and while data wrangling for my [volunteering](https://mines-paris.org). I have been wanting to improve the experience for my use cases and [syntaqlite](https://github.com/LalitMaganti/syntaqlite)'s creator [Lalit Maganti](https://lalitm.com)'s [blog post](https://lalitm.com/post/building-syntaqlite-ai/) spurred me to spend a few hours building this tool. Claude (in Zed) wrote a first version I then rewrote. The js part is largely untouched as I am not familiar with how to make it better.
