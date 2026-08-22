@@ -1,0 +1,12 @@
+// Override gem theme colors to match original site palette.
+// Light mode: blue #0076df  |  Dark mode: cyan #2698ba
+
+:root {
+  --global-theme-color: #0076df;
+  --global-hover-color: #0076df;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #2698ba;
+  --global-hover-color: #2698ba;
+}
