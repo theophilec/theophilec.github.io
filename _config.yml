@@ -126,7 +126,7 @@ related_blog_posts:
   max_related: 5
 
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: ""
   repo_id:
   category: Comments
   category_id:
