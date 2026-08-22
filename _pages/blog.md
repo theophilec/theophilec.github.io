@@ -17,7 +17,7 @@ pagination:
       {% for post in postlist %}
         {% unless post.draft %}
           <div style="display: table-row;">
-            <div style="display: table-cell; width: 20%; padding: 0.3rem 1rem 0.3rem 0; white-space: nowrap; vertical-align: top;">
+            <div style="display: table-cell; width: 20%; padding: 0.3rem 1rem 0.3rem 0; white-space: nowrap; vertical-align: top; font-weight: bold;">
               {{ post.date | date: '%b %d, %Y' }}
             </div>
             <div style="display: table-cell; padding: 0.3rem 0; vertical-align: top;">
