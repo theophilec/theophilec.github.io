@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
 #
 # Build (and optionally serve) the site locally, mirroring the CI build
-# in .github/workflows/deploy.yml. Requires chruby with ruby-3.3.5 and
-# Homebrew llvm (for mini_racer's native extension) to be installed:
-#   brew install chruby ruby-install llvm
+# in .github/workflows/deploy.yml.
+#
+# Requirements (macOS via Homebrew + chruby):
+#   brew install chruby ruby-install node
 #   ruby-install ruby 3.3.5
+#   npm ci  (run once after cloning)
 #
 # Usage:
 #   bin/build-local.sh          # build once into _site/
@@ -24,15 +26,16 @@ done
 chruby ruby-3.3.5
 set -u
 
-export CC=/opt/homebrew/opt/llvm/bin/clang
-export CXX=/opt/homebrew/opt/llvm/bin/clang++
 export JEKYLL_ENV=production
 
 bundle check >/dev/null 2>&1 || bundle install
+npm ci 2>/dev/null || true  # install JS deps if not already installed
 
 if [[ "${1:-}" == "--serve" ]]; then
-    bundle exec jekyll serve --lsi --livereload
+    bundle exec jekyll serve --livereload
 else
-    bundle exec jekyll build --lsi
+    bundle exec jekyll build
+    npm install -g purgecss 2>/dev/null || true
+    purgecss -c purgecss.config.js 2>/dev/null || true
     echo "Built site into _site/"
 fi
