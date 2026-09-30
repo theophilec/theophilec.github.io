@@ -27,3 +27,16 @@ latest_posts:
 I am a Machine learning engineer at [Pennylane](https://pennylane.com), a French accounting tech scale-up.
 
 Before that, I studied engineering  at [Mines Paris - PSL](https://minesparis.psl.eu), machine learning at [Sorbonne Université](https://sciences.sorbonne-universite.fr/), and earned my PhD in machine learning from [École Normale Supérieure](https://ens.psl.eu) in the [SIERRA team](https://sierra-mlopt.github.io/) at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris), supervised by Alessandro Rudi, Carlo Ciliberto and Benjamin Guedj, on the topic of structure in ML methods. You can read my thesis [here](https://theses.fr/2024UPSLE004).
+
+<div class="mt-4">
+  <p class="mb-2">Subscribe to get updates about new posts. Unsubscribe at any time.</p>
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/theophile"
+    method="post"
+    class="embeddable-buttondown-form"
+  >
+    <input type="email" name="email" placeholder="  you@example.com" class="form-control d-inline-block w-auto" />
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" class="btn btn-primary" />
+  </form>
+</div>
