@@ -17,4 +17,4 @@ Après un bref historique du traitement du langage (pourquoi a-t-on mis du temps
 
 Je vais écrire quelques réflexions sur ce que m’a apporté — à moi — cette conférence et les échanges qui ont suivi avec des membres du public.
 
-Abonnez-vous ou revenez sur le blog pour restez au courant !
+[Abonnez-vous](https://buttondown.com/theophile) ou revenez sur le blog pour restez au courant !
