@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conférence à la Commission IA du Barreau de Paris"
-date: 2026-10-13
+date: 2026-10-12
 description: 
 categories: talks
 ---
